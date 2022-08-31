@@ -4,7 +4,7 @@
 # 팀원을 소개합니다!
             김정서            김영진            나예인            송상훈            조선송
 
-![kimjeongseo.jpg](/uploads/459a5244a09183a784ceded1f4378371/kimjeongseo.jpg.png)  ![김영진.jpg](/uploads/86b5bd3ec8be65344a780da882916038/김영진.jpg.jpg)  ![나예인](/uploads/e4f2a7ab2838ad7b2ae3ee63eb40c99d/나예인.jpg)  ![송상훈](/uploads/43b7f330da859fec8f4fa516288d7d12/송상훈.jpg)  ![조선송__2_](/uploads/5d641de3fd594880bfcb627715b95f7a/조선송__2_.jpg)
+![kimjeongseo jpg](https://user-images.githubusercontent.com/82928004/187567753-66fd80d3-1362-4166-81bc-04de12ee781f.png)  ![김영진 jpg](https://user-images.githubusercontent.com/82928004/187567755-4a373439-dc84-4770-961a-30663a1c6e36.jpg)  ![나예인](https://user-images.githubusercontent.com/82928004/187567758-7685e76c-794c-45ad-ad3e-869b24a85680.jpg)  ![송상훈](https://user-images.githubusercontent.com/82928004/187567760-9ce774f3-ec77-48cc-b5f5-5c3589c403e1.jpg)  ![조선송 (2)](https://user-images.githubusercontent.com/82928004/187567764-255eca3c-4bb4-47f9-a45f-1a8d083088c2.jpg)
 
 
 # 팀원 역할
@@ -80,20 +80,19 @@
 
 # Chronicler 서비스 화면 
 - 메인 페이지
-![main](/uploads/6b28ef8f8dabf5359a0ede7f17f3e674/main.png)
+![main](https://user-images.githubusercontent.com/82928004/187567709-6d4da3c9-26af-4121-97e6-9f89742fbac8.png)
 
 - 회의실 실시간 자막 
-![회의_자막](/uploads/b8e160d6f11a27650e6afbb19cea05ad/회의_자막.png)
+![회의_자막](https://user-images.githubusercontent.com/82928004/187567725-5aa76e11-150d-4cd6-a03d-8577b4b8d283.png)
 
 - 회의 종료 후 메일 발송
-![크로니클러_메일왔을때](/uploads/7ac52e7a95d0d78216c8ca3ff853ebd4/크로니클러_메일왔을때.png)
+![크로니클러_메일왔을때](https://user-images.githubusercontent.com/82928004/187567722-6da84155-95d0-4dd7-b339-74eccead0574.png)
 
 - 회의록
 
-![회의록1](/uploads/e9f1d43e1213e34c5b67fde08e95da77/회의록1.png)  ![회의록2](/uploads/4cc3c1d14d0f91c11f5b6fa95a291d7e/회의록2.png)
+![회의록1](https://user-images.githubusercontent.com/82928004/187567729-2c8fe795-0ac2-4d9e-9f5e-c6e9f7e300c5.png)  ![회의록2](https://user-images.githubusercontent.com/82928004/187567730-846c86a5-ba78-4746-a0df-13be18dfdc7b.png)
 
-![회의록3](/uploads/2e49db59cabe22dce2cab8bdf31c47fa/회의록3.png)  ![회의록4](/uploads/82fa25b004a32664247df0efbcfd2fd9/회의록4.png)
-
+![회의록3](https://user-images.githubusercontent.com/82928004/187567733-d3338917-f12a-4e41-a3f4-d6d270c9d3e3.png)  ![회의록4](https://user-images.githubusercontent.com/82928004/187567735-e4722da0-5c31-4e03-b2ef-723b4daf86f0.png)
 <hr>
 
 # 서비스 설명
@@ -108,7 +107,7 @@
 <hr>
 
 # 시스템 아키텍쳐
-![시스템아키텍처](/uploads/3d137ce717806e4e324059d7c5cd3d26/시스템아키텍처.PNG)
+![시스템아키텍처](https://user-images.githubusercontent.com/82928004/187567712-7f44cf9a-3da5-4db8-8402-fd88691719a0.PNG)
 <hr>
 
 # CI/CD 구축 및 SSL 인증서 적용
@@ -123,7 +122,7 @@ Nginx와 letsencrypt를 이용하여 SSL 인증서를 적용하고, 프론트엔
 <hr>
 
 # 요구사항 정의서
-![요구사항정의서](/uploads/77c7ba9240b8b5e03bdb8b50c46cabd8/요구사항정의서.PNG)
+![요구사항정의서](https://user-images.githubusercontent.com/82928004/187567721-75361011-3e7a-4b6c-8870-0e0111579746.PNG)
 <hr>
 
 # Git 컨벤션
@@ -169,7 +168,7 @@ FRONTEND, BACKEND, FREEDOM, 회의록, 일정관리 카테고리로 나누어 FR
 <hr>
 
 # ER Diagram
-![erd](/uploads/6c16954b3344ed9b1c7b6a781a5c63c2/erd.png)
+![erd](https://user-images.githubusercontent.com/82928004/187567800-758e9d39-35e7-4537-bfac-451205848837.png)
 
 <hr>
 
